@@ -33,4 +33,4 @@ pip install -r requirements.txt
 ![image](img/output2.png)
 
 <br/>
-Check all results on the notebook
+Check all results on the notebook.
