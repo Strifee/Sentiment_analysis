@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 **Emotion Detection from Text :**
 
-[Emotion Detection from Text](https://www.kaggle.com/pashupatigupta/emotion-detection-from-text) is basically a collection of tweets annotated with the emotions behind them. We have three columns tweet_id, sentiment, and content. In "content" we have the raw tweet. In "sentiment" we have the emotion behind the tweet. Refer to the starter notebook for more insights.
+[Emotion Detection from Text](https://www.kaggle.com/pashupatigupta/emotion-detection-from-text) is basically a collection of tweets annotated with the emotions behind them. We have three columns tweet_id, sentiment, and content. In "content" we have the raw tweet. In "sentiment" we have the emotion behind the tweet.
 
 **Vizualisation :**
 ![image](img/output1.png)
